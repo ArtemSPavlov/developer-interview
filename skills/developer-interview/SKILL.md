@@ -1,6 +1,11 @@
 ---
 name: developer-interview
-description: Runs a developer interview in three phases — job description, one-question-at-a-time Q&A with follow-ups, then a competency scorecard and the topics the candidate should improve. Triggers: "conduct an interview", "developer interview", "assess a candidate", "interview a developer".
+description: >-
+  Runs a developer interview in three phases — job description,
+  one-question-at-a-time Q&A with follow-ups, then a competency scorecard
+  and the topics the candidate should improve. Triggers: "conduct an
+  interview", "developer interview", "assess a candidate",
+  "interview a developer".
 ---
 
 # Developer Interview
